@@ -65,7 +65,7 @@ nav ul li a.active{
     margin-top:90px;
     height:300px;
     background:linear-gradient(rgba(0,0,0,.6),rgba(0,0,0,.6)),
-    url("images/hero2.jpeg") center/cover no-repeat;
+    url("hero2.jpeg") center/cover no-repeat;
     display:flex;
     flex-direction:column;
     justify-content:center;
