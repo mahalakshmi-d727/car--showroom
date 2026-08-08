@@ -69,7 +69,7 @@ nav ul li a:hover{
     margin-top:90px;
     height:300px;
     background:linear-gradient(rgba(0,0,0,.6),rgba(0,0,0,.6)),
-    url("images/hero1.jpeg") center/cover;
+    url("hero1.jpeg") center/cover;
     display:flex;
     flex-direction:column;
     justify-content:center;
